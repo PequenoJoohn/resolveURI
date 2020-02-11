@@ -6,5 +6,3 @@ Resolve of some activities
 - [Challenge 1215](https://www.urionlinejudge.com.br/judge/pt/problems/view/1215)
 - [Challenge 1241](https://www.urionlinejudge.com.br/judge/pt/problems/view/1241)
 - [Challenge 1244](https://www.urionlinejudge.com.br/judge/pt/problems/view/1244)
-
-
